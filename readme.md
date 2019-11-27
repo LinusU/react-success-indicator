@@ -36,11 +36,17 @@ return (
 
 ### `size`
 
+- optional
+- type: `string`
+
 The size of the indicator. Can be specified as any css-compatible length.
 
 e.g. `'100%'`, `'128px'`, `'1em'`
 
 ### `color`
+
+- optional
+- type: `string`
 
 The color of the indicator. Can be specificed as any css-compatible color.
 
